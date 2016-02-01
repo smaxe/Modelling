@@ -9,3 +9,4 @@ is set to zero, by calculating the sum of each line but the value from the diago
 is set negative a placed at the diagonal place. Each timepoint for the next transition
 is based on a random uniformly distributed value with rate=Q[i,i].
 
+Website with the App: https://maxsuter.shinyapps.io/NeuerOrdner/
