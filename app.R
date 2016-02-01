@@ -22,7 +22,7 @@ the_fun <- function(conds,times){
   # First line: Q[1,]
   # Normalization per Line
   # Each line has sum = 1 (Probabilty of 1)
-  # 
+  
   normalize <- function(Q,conds){
     for (i in 1:conds){
       line_sum <- sum(Q[i,])
